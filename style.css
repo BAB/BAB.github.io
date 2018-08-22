@@ -139,7 +139,7 @@ section:last-child {
 .sectionTitlePink h1 {
 	font-family: 'Ubuntu', sans-serif;
 	font-style: normal;
-	font-size: 1em;
+	font-size: .8em;
 	color: #ff7be5;
 	margin-bottom: 10px;
 }
