@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #282828; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #ffe100;}
+html, body {background: #282828; font-family: 'Sawarabi Gothic', sans-serif; font-size: 16px; color: #ffe100;}
 
 .clear {clear: both;}
 
@@ -43,14 +43,14 @@ p {
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
 	font-size: 1.2em;
 	margin-left: 2px;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	color: #ffb700;
 }
 
@@ -130,14 +130,14 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	font-size: 1em;
 	color: #eeeeee;
 }
 
 .sectionTitlePink h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	font-size: 1em;
 	color: #ff7be5;
@@ -145,7 +145,7 @@ section:last-child {
 }
 
 .sectionTitleViolet h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	font-size: 1em;
 	color: #c29cff;
@@ -153,7 +153,7 @@ section:last-child {
 }
 
 .sectionTitleBlue h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	font-size: 1em;
 	color: #83acff;
@@ -161,7 +161,7 @@ section:last-child {
 }
 
 .sectionTitleGreen h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	font-style: normal;
 	font-size: 1em;
 	color: #71ff8b;
@@ -169,12 +169,12 @@ section:last-child {
 }
 
 .sectionContent h2 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	font-size: 1.1em;
 	margin-bottom: -2px;
 }
 .sectionContent {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Sawarabi Gothic', Helvetica, Arial, sans-serif;
 	font-size: 1.1em;
 	margin-bottom: -2px;
 }
