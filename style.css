@@ -147,7 +147,7 @@ section:last-child {
 .sectionTitleViolet h1 {
 	font-family: 'Ubuntu', sans-serif;
 	font-style: normal;
-	font-size: 1em;
+	font-size: .8em;
 	color: #c29cff;
 	margin-bottom: 10px;
 }
@@ -155,7 +155,7 @@ section:last-child {
 .sectionTitleBlue h1 {
 	font-family: 'Ubuntu', sans-serif;
 	font-style: normal;
-	font-size: 1em;
+	font-size: .8em;
 	color: #83acff;
 	margin-bottom: 10px;
 }
@@ -163,7 +163,7 @@ section:last-child {
 .sectionTitleGreen h1 {
 	font-family: 'Ubuntu', sans-serif;
 	font-style: normal;
-	font-size: 1em;
+	font-size: .8em;
 	color: #71ff8b;
 	margin-bottom: 10px;
 }
