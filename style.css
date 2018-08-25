@@ -26,7 +26,7 @@ p {
 	width: 90%;
 	max-width: 800px;
 	background: #383838;
-	border: 2px dotted #bebebe;
+	border: 1px #bebebe;
 	margin: 30px auto;
 	-webkit-border-radius: 45px;
 	border-radius: 45x;
@@ -34,7 +34,7 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	background: #323232;
+	background: #FFFFFF;
 	-webkit-border-top-right-radius: 40px;
 	border-top-right-radius: 45px;
 	border-top-left-radius: 45px;
@@ -51,7 +51,7 @@ p {
 	font-size: 1.2em;
 	margin-left: 2px;
 	font-family: 'Ubuntu', sans-serif;
-	color: #ffb700;
+	color: #444444;
 	margin-bottom: 4px;
 }
 
@@ -89,11 +89,11 @@ p {
 
 #contactDetails ul li {
 	margin-bottom: 3px;
-	color: #ffb700;
+	color: #000000;
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #ffe100; 
+	color: #000000; 
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -103,7 +103,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #ffffff;
+	color: #0000FF;
 }
 
 
@@ -134,7 +134,7 @@ section:last-child {
 	font-family: 'Ubuntu', sans-serif;
 	font-style: normal;
 	font-size: 1em;
-	color: #eeeeee;
+	color: #444444;
 }
 
 .sectionTitlePink h1 {
