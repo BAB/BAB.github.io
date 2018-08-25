@@ -28,9 +28,6 @@ p {
 	background: #FFFFFF;
 	border: 1px #444444;
 	margin: 30px auto;
-	-webkit-border-radius: 45px;
-	border-radius: 45x;
-}
 
 .mainDetails {
 	padding: 25px 35px;
@@ -69,8 +66,6 @@ p {
 	width: 100%;
 	height: auto;
 	border: 2px solid #000000;
-	-webkit-border-radius: 20px;
-	border-radius: 20px;
 }
 
 #name {
