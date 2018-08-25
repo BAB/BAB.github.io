@@ -26,15 +26,13 @@ p {
 	width: 90%;
 	max-width: 800px;
 	background: #FFFFFF;
-	border: 1px #444444;
+	border: 1px #bebebe;
 	margin: 30px auto;
+}
 
 .mainDetails {
 	padding: 25px 35px;
-	background: #FFFFFF;
-	-webkit-border-top-right-radius: 40px;
-	border-top-right-radius: 45px;
-	border-top-left-radius: 45px;
+	background: #323232;
 }
 
 #name h1 {
