@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #FFFFFF; font-family: 'Ubuntu', sans-serif; font-size: 16px; color: #444444;}
+html, body {background: #BBBBBB; font-family: 'Ubuntu', sans-serif; font-size: 16px; color: #444444;}
 
 .clear {clear: both;}
 
@@ -26,7 +26,7 @@ p {
 	width: 90%;
 	max-width: 800px;
 	background: #FFFFFF;
-	border: 1px #bebebe;
+	border: 1px #444444;
 	margin: 30px auto;
 	-webkit-border-radius: 45px;
 	border-radius: 45x;
