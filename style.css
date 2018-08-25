@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #BBBBBB; font-family: 'Ubuntu', sans-serif; font-size: 16px; color: #444444;}
+html, body {background: #BBBBBB; font-family: 'Roboto Slab', serif; font-size: 16px; color: #444444;}
 
 .clear {clear: both;}
 
@@ -40,14 +40,14 @@ p {
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	margin-bottom: 0px;
 }
 
 #name h2 {
 	font-size: 1.2em;
 	margin-left: 2px;
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	color: #444444;
 	margin-bottom: 4px;
 }
@@ -126,14 +126,14 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-style: normal;
 	font-size: 1em;
 	color: #444444;
 }
 
 .sectionTitlePink h1 {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-style: normal;
 	font-size: .8em;
 	color: #ff7be5;
@@ -141,7 +141,7 @@ section:last-child {
 }
 
 .sectionTitleViolet h1 {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-style: normal;
 	font-size: .8em;
 	color: #c29cff;
@@ -165,12 +165,12 @@ section:last-child {
 }
 
 .sectionContent h2 {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 1em;
 	margin-bottom: -2px;
 }
 .sectionContent {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	font-size: 1.1em;
 	margin-bottom: -2px;
 }
