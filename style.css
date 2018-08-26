@@ -167,6 +167,11 @@ section:last-child {
 	font-size: 1.2em;
 	margin-bottom: -2px;
 }
+.sectionContent h3 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 1em;
+	margin-bottom: -2px;
+}
 .sectionContent {
 	font-family: 'Roboto Slab', serif;
 	font-size: 1.1em;
