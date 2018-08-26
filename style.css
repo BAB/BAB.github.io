@@ -126,8 +126,8 @@ section:last-child {
 .sectionTitle h1 {
 	font-family: 'Roboto Slab', serif;
 	font-style: normal;
-	font-size: 1em;
-	color: #444444;
+	font-size: .9em;
+	color: #BBBBBB;
 }
 
 .sectionTitlePink h1 {
