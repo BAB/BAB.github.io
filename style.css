@@ -124,14 +124,14 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Cabin', sans-serif;
 	font-style: normal;
 	font-size: .9em;
 	color: #BBBBBB;
 }
 
 .sectionTitlePink h1 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Cabin', sans-serif;
 	font-style: normal;
 	font-size: .8em;
 	color: #ff7be5;
@@ -139,7 +139,7 @@ section:last-child {
 }
 
 .sectionTitleViolet h1 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Cabin', sans-serif;
 	font-style: normal;
 	font-size: .8em;
 	color: #c29cff;
@@ -147,7 +147,7 @@ section:last-child {
 }
 
 .sectionTitleBlue h1 {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Cabin', sans-serif;
 	font-style: normal;
 	font-size: .8em;
 	color: #83acff;
@@ -155,7 +155,7 @@ section:last-child {
 }
 
 .sectionTitleGreen h1 {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Cabin', sans-serif;
 	font-style: normal;
 	font-size: .8em;
 	color: #71ff8b;
@@ -163,17 +163,17 @@ section:last-child {
 }
 
 .sectionContent h2 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Cabin', sans-serif;
 	font-size: 1.2em;
 	margin-bottom: -2px;
 }
 .sectionContent h3 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Cabin', sans-serif;
 	font-size: .9em;
 	margin-bottom: -2px;
 }
 .sectionContent {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Cabin', sans-serif;
 	font-size: 1.1em;
 	margin-bottom: -2px;
 }
