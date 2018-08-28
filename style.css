@@ -134,9 +134,9 @@ section:last-child {
 
 .sectionContent h2 {
 	font-family: 'News Cycle', sans-serif;
-	font-weight: 600;
+	font-weight: 400;
 	font-size: 1.2em;
-	margin-bottom: 1px;
+	margin-bottom: -3px;
 }
 
 .sectionContent h3 {
