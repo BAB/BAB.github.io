@@ -33,6 +33,7 @@ p {
 .mainDetails {
 	padding: 25px 25px;
 	background: #FFFFFF;
+	border-bottom: 1px dotted #888888;
 }
 
 #name h1 {
