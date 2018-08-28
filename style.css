@@ -133,6 +133,7 @@ section:last-child {
 
 .sectionContent h2 {
 	font-family: 'News Cycle', sans-serif;
+	font-weight: bold;
 	font-size: 1.2em;
 	margin-bottom: 1px;
 }
