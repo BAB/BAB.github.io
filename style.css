@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #BBBBBB; font-family: 'Roboto', sans-serif; font-size: 16px; color: #444444;}
+html, body {background: #BBBBBB; font-family: 'Raleway', sans-serif; font-size: 16px; color: #444444;}
 
 .clear {clear: both;}
 
@@ -38,14 +38,14 @@ p {
 #name h1 {
 	font-size: 2.5em;
 	font-weight: 700;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	margin-bottom: 0px;
 }
 
 #name h2 {
 	font-size: 1.2em;
 	margin-left: 2px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #444444;
 	margin-bottom: 4px;
 }
@@ -139,13 +139,13 @@ section:last-child {
 }
 
 .sectionContent h3 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: .9em;
 	margin-bottom: -2px;
 }
 
 .sectionContent {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 1.1em;
 	margin-bottom: -2px;
 }
@@ -214,11 +214,6 @@ section:last-child {
 	
 	.sectionTitle {
 		margin-left: -2px;
-		font-size: 1em;
-		
-	.sectionTitlePink {
-		margin-left: -2px;
-		margin-bottom: 10px;
 		font-size: 1em;
 		
 	}
