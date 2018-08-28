@@ -130,48 +130,18 @@ section:last-child {
 	color: #BBBBBB;
 }
 
-.sectionTitlePink h1 {
-	font-family: 'Cabin', sans-serif;
-	font-style: normal;
-	font-size: .8em;
-	color: #ff7be5;
-	margin-bottom: 10px;
-}
-
-.sectionTitleViolet h1 {
-	font-family: 'Cabin', sans-serif;
-	font-style: normal;
-	font-size: .8em;
-	color: #c29cff;
-	margin-bottom: 10px;
-}
-
-.sectionTitleBlue h1 {
-	font-family: 'Cabin', sans-serif;
-	font-style: normal;
-	font-size: .8em;
-	color: #83acff;
-	margin-bottom: 10px;
-}
-
-.sectionTitleGreen h1 {
-	font-family: 'Cabin', sans-serif;
-	font-style: normal;
-	font-size: .8em;
-	color: #71ff8b;
-	margin-bottom: 10px;
-}
-
 .sectionContent h2 {
 	font-family: 'Cabin', sans-serif;
 	font-size: 1.2em;
 	margin-bottom: -2px;
 }
+
 .sectionContent h3 {
 	font-family: 'Cabin', sans-serif;
 	font-size: .9em;
 	margin-bottom: -2px;
 }
+
 .sectionContent {
 	font-family: 'Cabin', sans-serif;
 	font-size: 1.1em;
