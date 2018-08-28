@@ -133,7 +133,7 @@ section:last-child {
 .sectionContent h2 {
 	font-family: 'News Cycle', sans-serif;
 	font-size: 1.2em;
-	margin-bottom: -2px;
+	margin-bottom: 1px;
 }
 
 .sectionContent h3 {
@@ -157,6 +157,7 @@ section:last-child {
 .dateSpan {
 	font-size: 0.8em;
 	font-style: italic;
+	margin-top: 1px;
 	margin-bottom: 3px;
 	color: #999999;
 }
