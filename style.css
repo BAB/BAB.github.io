@@ -52,6 +52,15 @@ p {
 	margin-bottom: 4px;
 }
 
+#name h4 {
+	font-size: .8em;
+	margin-left: 2px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color: #444444;
+	margin-bottom: 4px;
+}
+
 #mainArea {
 	padding: 0 30px;
 }
