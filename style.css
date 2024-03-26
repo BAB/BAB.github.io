@@ -187,7 +187,8 @@ section:last-child {
 }
 
 .keySkills ul li {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
 }
 
 @media all and (min-width: 602px) and (max-width: 800px) {
