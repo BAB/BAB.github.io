@@ -189,8 +189,7 @@ section:last-child {
 .keySkills ul li {
 	margin-bottom: 10px;
 	display: block;
-    	float: left;
-    	height: 27px;
+    	height: 50px;
     	list-style: none;
 }
 
